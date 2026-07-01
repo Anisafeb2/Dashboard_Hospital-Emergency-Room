@@ -19,7 +19,7 @@ Tujuan utama pengembangan dashboard ini adalah:
 
 ## Dashboard Preview
 ![Dashboard 1](image/DashboardMonthlyView.png)
-![Dashboard 2](image/DashboarCONSOLIDATEDVIEW.png)
+![Dashboard 2](image/DashboarDCONSOLIDATEDVIEW.png)
 ![Dashboard 3](image/DashboardPATIENTDETAILS.png)
 
 
